@@ -1,0 +1,14 @@
+#header{height:auto; background:black; color:white}
+#nav{height:auto; background:white;}
+#slide{ width: 500px; margin-bottom: 2px;}
+#b1,#b2,#b3{width: 370px;}
+#h1 {text-align: center;font-weight: 100; text-transform: uppercase; color: #000;margin-bottom: 40px;}
+#aa{background:green;height:200px;}
+#bb{background:white;height:200px;}
+#cc{background:red;height:200px;}
+#b11{height:200px; background:pink;}
+#b12{height:200px; background:#fcfcfc;}
+#form{height: 200px; background-color: grey; text-align: center;}
+#img1{border-radius: 50%; width: 150px; height:150px; margin: 20px;text-align: : center; }
+#par1{width: 50%; height: 200px; float:left;}
+#par12{margin: 0px; padding: 0px;}

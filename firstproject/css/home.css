@@ -1,0 +1,61 @@
+<!-- 
+	#div1{text-align:center; font-size:20px; color:black;}
+
+  	#image1{padding:5px 5px; width:180px; margin:auto;}
+
+  	#head1{text-align:center;}
+
+  	#line1{text-align:center; color:#747474;; font-size:15px;}
+
+	#list{display:inline; line-height:80px; padding:0px 12px;}
+
+	#ancher{color:#000; font-size:18px; text-decoration:none; padding:0px 30px; margin:0px 20px;}
+
+	#ancher.active{color:blue;}
+ -->
+
+
+<!--
+ 	#head2{text-align:left; margin-left:50px;}
+
+ 	#div2{text-align:center; font-size:20px; color:black;}
+
+ 	#image2{margin: auto; padding:auto; width: 100%;  height:400px; opacity:0.7;}
+
+    #div3{position:absolute; bottom:0; color:#000; width:100%; padding:60px;}
+
+    #head3{font-size:50px;}
+
+    #line3{font-size:30px; color:black}
+
+	#btn1{background-color:brown; color:white; margin:15px; padding:10px 10px; border-radius:250px; border:none;}
+
+	#icon1{margin-right:15px;}
+-->
+
+
+<!--
+ 	#div4{background:#f7f5ed;}
+
+ 	#head4{text-align:left; margin-left:50px;}
+-->
+
+<!--
+	.caret {
+    position: absolute;
+    top: calc(50% - 1px);
+    right: 10px;
+}
+-->
+
+
+ 	#div5{text-align:center; font-size:20px; color:black;}
+
+ 	#image5{margin-top: 40px; padding:auto; width: 100%;  height:300px; opacity:0.7;}
+ 	    #div6{position:absolute; bottom:0; color:#000; width:100%; padding:60px;}
+
+ 	       #head5{font-size:50px;}
+
+ 	       	#btn5{background-color:brown; color:white; margin:15px; padding:10px 10px; border-radius:250px; border:none;}
+
+	#icon5{margin-right:15px;}
